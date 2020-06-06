@@ -1,0 +1,65 @@
+.title{ 
+    margin-bottom: 0px; 
+    text-align:center; 
+    width: 250px;
+    height: 250px; 
+    color:lightgrey; 
+    
+} 
+  
+input[type="button"] 
+{ 
+    color: black;
+    margin: 0px;
+    font-size: 30px;
+} 
+
+.round2 {
+	background-color: orange;
+	height: 100px;
+	width: 100px;
+}
+.round3 {
+	background-color: white;
+	height: 100px;
+	width: 100px;
+}
+.round1 
+{ 
+    background-color:grey; 
+    color: black;
+    text-align: center;
+    margin: 0px;
+    width:410px;
+    height: 100px; 
+} 
+.round4
+{ 
+    background-color:lightgrey; 
+    color: black;
+    text-align: center;
+    margin: 0px;
+    width:410px;
+    height: 100px; 
+} 
+  
+input[type="text"] 
+{ 
+    background-color:grey; 
+   height :100px;
+    width:100% 
+
+} 
+
+#customers {
+  border-collapse: collapse;
+  border-color: black;
+ 
+}
+
+#customers td, #customers th {
+  border: 1px solid black;
+  border-color: black;
+  padding: 0px;
+}
+
